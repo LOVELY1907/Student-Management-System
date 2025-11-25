@@ -58,22 +58,22 @@ Trello (Agile Methodology)
 
 📂 Project Structure <br>
 STUDENTMANAGEMENT_FINAL/<br>
-│── static/
-│    ├── style.css
-│    └── script.js
-│
-│── templates/
-│    ├── index.html
-│    ├── add.html
-│    ├── edit.html
-│    └── base.html
-│
-│── app.py
-│── students.json
-│── README.md
-│── .gitignore
-│── LICENSE
-
+│── static/ <br>
+│    ├── style.css <br>
+│    └── script.js <br>
+│ <br>
+│── templates/  <br>
+│    ├── index.html  <br>
+│    ├── add.html <br>
+│    ├── edit.html <br>
+│    └── base.html <br>
+│ <br>
+│── app.py  <br>
+│── students.json   <br>
+│── README.md  <br>
+│── .gitignore  <br>
+│── LICENSE  <br>
+ <br>
 🔄 Agile Methodology (Trello Board Summary)
 
 The entire project followed Agile principles:
